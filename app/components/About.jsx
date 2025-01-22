@@ -10,7 +10,7 @@ const About = ({isDarkMode}) => {
        font-Ovo'>Introduction</h4>
             <h2 className='text-center text-5xl font-Ovo'>About Me</h2>
             <div className='flex w-full flex-col lg:flex-row items-center 
-    gap-4 my-20'>
+    gap-4'>
                 <div className='w-64 sm:w-80 rounded-3xl max-w-none'>
                     <Image src={assets.user_image} alt='user' className='w-full rounded-3xl' />
                 </div>
