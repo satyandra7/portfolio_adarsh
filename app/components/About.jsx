@@ -4,7 +4,7 @@ import React from 'react'
 
 const About = ({isDarkMode}) => {
     return (
-        <div id='about' className='w-full px-[12%] py-10 
+        <div id='about' className='w-full px-[12%] pt-14 pb-4 
     scroll-mt-20'>
             <h4 className='text-center mb-2 text-lg
        font-Ovo'>Introduction</h4>
@@ -17,7 +17,7 @@ const About = ({isDarkMode}) => {
                 <div className='flex-1'>
                     <p className='mb-10 mx-w-2xl font-Ovo'>
                     Hi! I am Adarsh Shukla, a Data Scientist and Researcher with a passion for research and development. I hold an MSc in Computer Science from the University of Delhi , 
-                    where I honed my skills in data analysis , machine learning , and research methodologies.
+                    where I honed my skills in data analysis , machine learning  and research methodologies.
                     With a strong background in these areas , I am dedicated to applying my expertise 
                     to solve real-world problems.My commitment to continuous improvement and my enthusiasm 
                     for innovation drive me to explore new challenges and make meaningful contributions to 
