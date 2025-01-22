@@ -5,7 +5,7 @@ import { Typewriter } from "nextjs-simple-typewriter";
 
 const Header = () => {
   return (
-    <div className='w-11/12 mx-w-3xl text-center mx-auto flex flex-col items-center justify-center gap-4 pt-8 lg:pt-14'>
+    <div className='w-11/12 mx-w-3xl text-center mx-auto flex flex-col items-center justify-center gap-4 pt-12'>
       <div>
         <Image src={assets.profile_img} alt=" " className='rounded-full w-60 h-60 object-cover'/>
       </div>
